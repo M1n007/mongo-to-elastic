@@ -12,6 +12,7 @@
     "chalk": "^2.4.2",
     "delay": "^4.3.0",
     "elasticsearch": "^16.5.0",
-    "mongodb": "^3.3.3"
+    "mongodb": "^3.3.3",
+    "readline-sync": "^1.4.10"
   }
 }

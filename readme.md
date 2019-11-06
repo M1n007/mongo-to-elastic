@@ -1,5 +1,8 @@
 # Mongo To Elastic
 ![Example](ss.PNG "Example")
+![Error Trace](error.PNG "Error Trace")
+
+
 
 Configuration
 
